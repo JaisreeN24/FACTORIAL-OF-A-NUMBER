@@ -54,10 +54,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1171" height="513" alt="Screenshot 2025-09-25 084242" src="https://github.com/user-attachments/assets/78101a41-71f7-483e-a15a-be9a0438b5ba" />
 
 ---
 MANUAL CALCULATIONS
+
+![WhatsApp Image 2025-09-25 at 08 48 10](https://github.com/user-attachments/assets/9daa10d7-6ee7-4790-a29c-0fd22132d204)
+
 
 ---
 
