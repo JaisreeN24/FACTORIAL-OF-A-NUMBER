@@ -26,7 +26,8 @@ To write and execute an Assembly language program to perform the factorial of a 
 ---
 
 ## FLOWCHART
-<img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/f3b47187-6f0f-490c-8704-f2973cb2b276" />
+<img width="616" height="639" alt="image" src="https://github.com/user-attachments/assets/28b883d7-d177-4524-8320-2bb3bf7e09a1" />
+
 
 
 ---
